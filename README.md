@@ -4,3 +4,4 @@
 ![image](./static/image.jpg)
 =======
 
+1.知道什么是git
